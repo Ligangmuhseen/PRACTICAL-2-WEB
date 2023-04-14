@@ -1,0 +1,46 @@
+body {
+    background-color:whitesmoke;
+    
+}
+.personal-site {
+    background-color: lightslategray;
+}
+
+img {
+    height: 350px;
+}
+
+.table-friends {
+    width: 700px ;
+    background-color:#F6F1F1;
+}
+
+.friends1 {
+    border: 1px solid black;
+
+}
+.data {
+    border: 1px dotted black;
+    font-size: 40px;
+}
+th {
+    font-size: 40px;
+    border: 1px dashed black;
+    
+    right: 10px;
+
+}
+.friend {
+    border-radius: 100%;
+    width: 90px;
+    height: 100px;
+    position: absolute;
+    bottom:250px ;
+}
+h1 {
+    color: darkred;
+}
+
+.movie {
+    width: 300px;
+}

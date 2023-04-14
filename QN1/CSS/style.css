@@ -1,0 +1,24 @@
+.red {
+    color: red;
+
+}
+.blue {
+    color: blue;
+
+}
+.green {
+     color: green;
+}
+.yellow {
+    color: yellow;
+}
+
+.section {
+    text-align: center;
+}
+.btn {
+    margin: 5px 2px 0 2px;
+}
+.input{
+    width: 400px;
+}
